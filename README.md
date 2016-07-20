@@ -1,0 +1,2 @@
+# myrepo
+ini repository pertama
